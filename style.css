@@ -1,0 +1,29 @@
+
+h2 {
+text-align:center;
+}
+
+body {
+color: #C4A484;
+}
+#main {
+background-color:yellow;
+border:1px solid;
+border-color:brown;
+padding: 0px 20px 20px 20px;
+width:50%;
+height:auto;
+margin-left:20%;
+margin-right:20%;
+}
+
+.one {
+display: block;
+margin-left: 0 auto;
+margin-right: 0 auto;
+}
+.two {
+display: block;
+margin-left: 0 auto;
+margin-right: 0 auto;
+}
